@@ -9,4 +9,4 @@ const socket = io.connect(server);
 
 socket.on("welcome", (payload) => console.log(payload));
 
-socket.emit("hello", "John");
+socket.emit("hello", "Nicholas");
