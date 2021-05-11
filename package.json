@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/nacerillo/cloud-server/issues"
   },
-  "homepage": "https://github.com/nacerillo/cloud-server#readme"
+  "homepage": "https://github.com/nacerillo/cloud-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.2",
+    "socket.io-client": "^4.0.2"
+  }
 }
